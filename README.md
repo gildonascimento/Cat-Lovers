@@ -21,7 +21,7 @@ Página criada para amantes de gatos.
 
 ### Screenshot
 
-<img src="C:\Users\bcgil\Desktop\WorkSpace\@FRONT-END\Cat Lovers\img\cat-lovers.png" style="zoom:75%;" />
+<img src="https://github.com/gildonascimento/Cat-Lovers/blob/main/img/cat-lovers.png" style="zoom:75%;" />
 
 
 
@@ -44,5 +44,5 @@ Página criada para amantes de gatos.
 
 **Gildo Nascimento**
 
-- LinkedIn - [Visit my LinkedIn](hhttps://www.linkedin.com/in/gildonascimento/)
+- LinkedIn - [Visit my LinkedIn](https://www.linkedin.com/in/gildonascimento/)
 - E-mail - [Contact Me](mailto:bcgildo@gmail.com)

@@ -21,7 +21,7 @@ Página criada para amantes de gatos.
 
 ### Screenshot
 
-<img src="https://github.com/gildonascimento/Cat-Lovers/blob/main/img/cat-lovers.png" style="zoom:75%;" />
+<img src="https://github.com/gildonascimento/Cat-Lovers/blob/main/img/cat-lovers.png" style="zoom:50%;" />
 
 
 
